@@ -17,9 +17,7 @@ public class Example {
 	list.add(22);
 	list.add(11);
 	
-	System.out.println(list);
-	
-	
+	list.stream().forEach(x->System.out.println(x));
 	
 	}
 
