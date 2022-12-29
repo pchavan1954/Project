@@ -12,6 +12,10 @@ public class Example {
 	list.add(77);
 	list.add(66);
 	list.add(55);
+	list.add(44);
+	list.add(33);
+	list.add(22);
+	list.add(11);
 	
 	list.forEach(x->System.out.println(x));
 	
