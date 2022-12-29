@@ -17,7 +17,7 @@ public class Example {
 	list.add(22);
 	list.add(11);
 	
-	list.forEach(x->System.out.println(x));
+	System.out.println(list);
 	
 	
 	
