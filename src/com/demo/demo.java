@@ -8,7 +8,10 @@ public class Demo{
 		
 	          String  str = "hii prathamesh how are you";
 		 
+
 	    System.out.println("Hello guys we are reday for run");
+
+		System.out.println("Hello all");
 		System.out.println(str);
 	}
   
