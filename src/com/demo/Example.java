@@ -19,7 +19,7 @@ public class Example {
 	
 
 	list.stream().forEach(x->System.out.println(x));
-
+	System.out.println("Best of luck for your feature");
 	
 	}
 
