@@ -19,8 +19,13 @@ public class Example {
 	
 
 	list.stream().forEach(x->System.out.println(x));
+
 	System.out.println("Best of luck for your feature");
 	
+
+System.out.println("New line is added here ");
+	System.out.println("hii mock A5");
+
 	}
 
 }
