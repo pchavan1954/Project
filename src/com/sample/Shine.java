@@ -6,7 +6,8 @@ public class Shine {
 		
 		String str = "Hello all good morning";
 		
-		System.out.println(str);
+		System.out.println(	"Hello all good night");
+		System.out.println(	str);
 	}
 
 }
