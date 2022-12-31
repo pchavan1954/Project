@@ -6,7 +6,7 @@ public class Demo{
 		
 	          String  str = "hii prathamesh how are you";
 		 
-		
+		System.out.println("Hello all");
 		System.out.println(str);
 	}
   
