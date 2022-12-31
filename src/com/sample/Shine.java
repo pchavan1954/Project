@@ -7,6 +7,7 @@ public class Shine {
 		String str = "Hello all good morning";
 
 
+
 		
 		System.out.println(	"Hello all good night");
 		
@@ -14,10 +15,14 @@ public class Shine {
 		System.out.println("Hello all evening");
 		System.out.println(str);
 
+		System.out.println("Hello all good afternoon");
+
+
 		
 		System.out.println("Hello all good night");
 		
 		System.out.println("Hello all evening");
+
 		System.out.println(str);
 
 
