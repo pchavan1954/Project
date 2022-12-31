@@ -12,6 +12,10 @@ public class HashMapDemo {
 	map.put("Sanjay",3);
 	map.put("prathamesh", 4);
 	map.forEach((x,y)->System.out.println(x+ " " + y));
+
 	System.out.println("Hello velocity java batch");
+
+		System.out.println("good afternoon");
+
 	}
 }
